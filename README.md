@@ -1,3 +1,7 @@
+# random-cat
+
+https://random-cat-ruddy-xi.vercel.app
+
 # TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
